@@ -4,8 +4,9 @@ body {
 
 #timeDisplay {
 	color:#006400;
-	font-size: 40px;
+	font-size: 170px;
 	text-align: center;
 	position:relative;
-	margin-top: 50%;
+	top: 200px;
+	font-family: Amatic SC;
 }
